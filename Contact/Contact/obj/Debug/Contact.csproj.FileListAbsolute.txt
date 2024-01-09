@@ -1,0 +1,16 @@
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\obj\Debug\Contact.csproj.AssemblyReference.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\obj\Debug\Contact.Form1.resources
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\obj\Debug\Contact.pdb
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\bin\Debug\ContactDataB.mdf
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\bin\Debug\ContactDataB_log.ldf
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\bin\Debug\Contact.exe.manifest
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\bin\Debug\Contact.application
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\obj\Debug\Contact.exe.manifest
+C:\Users\Aldebaran\Documents\HeadFirst C#\Contact\Contact\obj\Debug\Contact.application
