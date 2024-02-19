@@ -1,0 +1,10 @@
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\bin\Debug\Talker.exe.config
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\bin\Debug\Talker.exe
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\bin\Debug\Talker.pdb
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\obj\Debug\Talker.csproj.AssemblyReference.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\obj\Debug\Talker.Properties.Resources.resources
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\obj\Debug\Talker.csproj.GenerateResource.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\obj\Debug\Talker.csproj.CoreCompileInputs.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\obj\Debug\Talker.exe
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\obj\Debug\Talker.pdb
+C:\Users\Aldebaran\Documents\HeadFirst C#\Talker\Talker\obj\Debug\Talker.Form1.resources
