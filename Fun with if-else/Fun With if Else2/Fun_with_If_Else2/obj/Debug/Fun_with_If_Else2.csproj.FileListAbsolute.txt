@@ -1,0 +1,14 @@
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\obj\Debug\WindowsFormsApp1.Fun_with_If_Else2.resources
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\obj\Debug\Fun_with_If_Else2.csproj.GenerateResource.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\obj\Debug\Fun_with_If_Else2.csproj.CoreCompileInputs.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\obj\Debug\Fun_with_If_Else2.csproj.AssemblyReference.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\bin\Debug\WindowsFormsApp1.application
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Aldebaran\Documents\HeadFirst C#\Fun with if-else\Fun With if Else2\Fun_with_If_Else2\obj\Debug\WindowsFormsApp1.application
