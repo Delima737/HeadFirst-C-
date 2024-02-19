@@ -1,0 +1,9 @@
+C:\Users\Aldebaran\Documents\HeadFirst C#\POO\POO exp\bin\Debug\POO exp.exe.config
+C:\Users\Aldebaran\Documents\HeadFirst C#\POO\POO exp\bin\Debug\POO exp.exe
+C:\Users\Aldebaran\Documents\HeadFirst C#\POO\POO exp\bin\Debug\POO exp.pdb
+C:\Users\Aldebaran\Documents\HeadFirst C#\POO\POO exp\obj\Debug\POO exp.csproj.AssemblyReference.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\POO\POO exp\obj\Debug\POO_exp.Properties.Resources.resources
+C:\Users\Aldebaran\Documents\HeadFirst C#\POO\POO exp\obj\Debug\POO exp.csproj.GenerateResource.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\POO\POO exp\obj\Debug\POO exp.csproj.CoreCompileInputs.cache
+C:\Users\Aldebaran\Documents\HeadFirst C#\POO\POO exp\obj\Debug\POO exp.exe
+C:\Users\Aldebaran\Documents\HeadFirst C#\POO\POO exp\obj\Debug\POO exp.pdb
